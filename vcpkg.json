@@ -1,0 +1,12 @@
+{
+  "dependencies" : [ {
+    "name" : "ms-gsl",
+    "version>=" : "4.1.0"
+  }, {
+    "name" : "fmt",
+    "version>=" : "11.0.2#1"
+  }, {
+    "name" : "simpleini",
+    "version>=" : "4.22"
+  } ]
+}
