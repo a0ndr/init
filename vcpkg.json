@@ -8,5 +8,14 @@
   }, {
     "name" : "simpleini",
     "version>=" : "4.22"
+  }, {
+    "name" : "boost-program-options",
+    "version>=" : "1.86.0"
+  }, {
+    "name" : "boost-algorithm",
+    "version>=" : "1.86.0"
+  }, {
+    "name" : "boost-filesystem",
+    "version>=" : "1.86.0"
   } ]
 }
